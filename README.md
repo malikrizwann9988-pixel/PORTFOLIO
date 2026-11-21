@@ -13,7 +13,7 @@ My personal portfolio website, built to show who I am, what I know and the proje
 
 ## Built with
 - HTML5
-- CSS3 (Grid, Flexbox, smooth scrolling navigation)
+- CSS3 
 - Hosted on GitHub Pages
 
 ## Status
